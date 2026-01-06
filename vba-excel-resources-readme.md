@@ -1,3 +1,7 @@
+---
+description: 'Comprehensive overview and navigation guide for VBA Excel development resources, patterns, and AI code generation best practices'
+---
+
 # VBA Excel Development Resources
 
 This collection provides comprehensive guidance, patterns, and best practices for developing VBA applications for Microsoft Excel, with a special focus on AI-assisted code generation and enterprise-grade solutions.
